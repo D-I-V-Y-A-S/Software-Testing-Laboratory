@@ -1,3 +1,6 @@
+<h1>EXP-5   BINARY SEARCH</h1>
+### DATE:30-8-24                                                                           
+### REGISTER NUMBER :212221040043
 ### AIM: 
 Write a python program to check the number is Armstrong number or not and inspect for failures.
 
