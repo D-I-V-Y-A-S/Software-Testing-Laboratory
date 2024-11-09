@@ -1,4 +1,4 @@
-<h1>EXP-5   BINARY SEARCH</h1>
+# EX.NO:5   BINARY SEARCH
 ### DATE:30-8-24                                                                           
 ### REGISTER NUMBER :212221040043
 ### AIM: 
