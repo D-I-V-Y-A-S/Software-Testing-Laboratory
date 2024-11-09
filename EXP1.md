@@ -14,7 +14,7 @@ Cases
 4.  the program with possible test cases.
 5. Stop the program. 
 ### Program:
-## i.)do…while: 
+i.)do…while: 
 ```
 def display(): 
 start=input("Enter a positive value for START: ") 
@@ -34,7 +34,7 @@ print("Enter a valid positive number.") display()
 ## Output:
 ![exp-1-1](https://github.com/user-attachments/assets/f1212b6e-d89f-4911-81a6-923cc2dd3be2)
 
-## ii.) while…do 
+ii.) while…do 
 ```
 start=input("Enter a positive value for START: ") end=input("Enter 
 a positive value for END: ") 
@@ -52,7 +52,7 @@ print("Enter a valid positive number.")
 ## Output:
 ![exp-1-2](https://github.com/user-attachments/assets/d90072d4-a17a-4c56-87ee-684aecedc1fc)
 
-## iii.) switch 
+iii.) switch 
 ```
 def switch(): 
 switcher={ 
@@ -69,7 +69,7 @@ switch()
 ## Output:
 ![exp1-3](https://github.com/user-attachments/assets/db56deb2-e070-4ad7-ba85-3fd500ff32a0)
 
-## iv.) if else 
+iv.) if else 
 ```
 def compare(): 
 a=input("Enter a value for A: ") 
@@ -89,7 +89,7 @@ print(“Enter a valid number.”)
 ## Output:
 ![exp1-4](https://github.com/user-attachments/assets/60900869-df19-4e72-aec7-7869658e9d6a)
 
-## v.) for 
+v.) for 
 ```
 def iterate(): 
 string=input("Enter a string: ") for 
