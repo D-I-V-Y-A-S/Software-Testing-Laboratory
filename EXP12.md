@@ -1,4 +1,4 @@
-# Ex.No: 9  Pytest program for Addition
+# Ex.No: 12  Pytest program for Addition
 
 ### DATE: 25-10-24                                                                           
 ### REGISTER NUMBER : 212221040043
@@ -24,9 +24,7 @@ def test_2_plus_3_equals_5():
 assert add(2,3) == 6 
 ```
 ### Output:
-
-
-
+![image](https://github.com/user-attachments/assets/45717d76-1424-4471-a33f-f70984adeeaf)
 ### Result:
 Thus, the python program for sum of digits is tested using pytest and executed and output is verified successfully.
 
