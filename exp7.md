@@ -1,7 +1,9 @@
  # Ex.No: 7 Sorting.
+ ```
  DATE:
  REGISTER NUMBER : 212222040079
- ## AIM:
+ ```
+## AIM:
  Write a python program for sorting and inspect for failures.
  ## Algorithm:
  1. Start
