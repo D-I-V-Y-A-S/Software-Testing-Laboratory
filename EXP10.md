@@ -1,4 +1,4 @@
-# Ex.No: 10  Pytest program for Sum of digits
+# Ex.No: 13  Pytest program for Sum of digits
 
 ### DATE:1|11|24                                                                         
 ### REGISTER NUMBER : 212221040043
@@ -28,9 +28,7 @@ def test_2():
 assert sumOfDigits(256) == 2 
 ```
 ### Output:
-
-
-
+![image](https://github.com/user-attachments/assets/12480c93-6cce-43e3-9fca-5ca5a47bbdbc)
 ### Result:
 Thus, the python program for Fibonacci Series is tested using pytest and executed and output is verified successfully.
 
