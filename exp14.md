@@ -17,9 +17,8 @@
  ## Program:
  ```
 def fibR(n): 
-    if
- n==1 or n==2: 
-  return 1 
+    if n==1 or n==2: 
+        return 1 
     return fibR(n-1)+fibR(n-2) 
 def test_fib_1_equals_1(): 
     assert fibR(1) == 1 
