@@ -15,6 +15,7 @@
  saved and type “pytest test_fib.py” and run it.
  5. Stop the program.
  ## Program:
+ ```
 def fibR(n): 
     if
  n==1 or n==2: 
@@ -26,6 +27,7 @@ def test_fib_2_equals_1():
     assert fibR(2) == 1 
 def test_fib_6_equals_8(): 
     assert fibR(6) == 7
+```
  ## Output:
 ![image](https://github.com/user-attachments/assets/7c536d01-8e13-4ca5-8789-0ac40c6121a1)
 ## Result:
