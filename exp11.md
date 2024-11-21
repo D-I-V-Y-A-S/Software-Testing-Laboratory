@@ -23,6 +23,7 @@
  8. Inside the function the line to be tested should has assert keyword at the
  beginning.
  ## Terminologies in Pytest:
+ ```
  F – Failed 
 . – Passed S – Skipped X – xpassed x – xfailed 
 Eg: 
@@ -33,6 +34,7 @@ import pytest
 def test_add(input1, input2, output): 
 assert input1 + input2 == output 
 for execution : execute “pytest test_parameter.py”.
+```
 ## Output:
 ![image](https://github.com/user-attachments/assets/31d2e872-12f5-4cfb-9d76-c3efe03cf3b4)
 ## Result:
